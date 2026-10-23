@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://TUUSUARIO.github.io/sitemap.xml
