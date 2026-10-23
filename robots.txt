@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://TUUSUARIO.github.io/sitemap.xml
+Sitemap: https://if25ibraelk-maker.github.io/sitemap.xml
