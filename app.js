@@ -1,6 +1,6 @@
 "use strict";
 /* ===== CONFIGURACIÓN: edita solo este bloque ===== */
-const SITE={nombre:"[IBRAHIM EL KADDOURI]",nif:"[Y5599318M]",domicilio:"[03330]",email:"[if25.ibraelk@gmail.com]"};
+const SITE={nombre:"[IBRAHIM EL KADDOURI]",nif:"[]",domicilio:"[03330]",email:"[if25.ibraelk@gmail.com]"};
 // AdSense: déjalo en false hasta que Google apruebe tu sitio y te dé tu ID real
 // (formato "ca-pub-" + 16 dígitos) y el ID de un bloque de anuncios.
 const ADS={enabled:false,client:"",slot:""};
